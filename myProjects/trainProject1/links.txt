@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=zTywcq3gPx4 -  PHP расширение для VS Code
+
+https://www.youtube.com/watch?v=PqTrhfjLQBI - Отправка формы на почту. Верстка валидация и отправка формы без перезагрузки. AJAX. PHPMailer.
+
+https://www.youtube.com/watch?v=B_CBEh-Uyuk - ФОРМА ОБРАТНОЙ СВЯЗИ ДЛЯ САЙТА - ЛЕГКО! Используем html и php
+
+https://www.youtube.com/watch?v=KtMLM_sM4LA - Форма обратной связи на PHP, Ajax, JavaScript и Bootstrap 4 / Изучение Ajax за 30 минут!
