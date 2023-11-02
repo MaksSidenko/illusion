@@ -1,0 +1,169 @@
+/* Указываем box sizing */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Убираем внутренние отступы */
+ul[class],
+ol[class] {
+  padding: 0;
+}
+
+/* Убираем внешние отступы */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+/* Выставляем основные настройки по-умолчанию для body */
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+  background: #333;
+}
+
+/* Удаляем стандартную стилизацию для всех ul и il, у которых есть атрибут class*/
+ul[class],
+ol[class] {
+  list-style: none;
+}
+
+/* Элементы a, у которых нет класса, сбрасываем до дефолтных стилей */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+/* Упрощаем работу с изображениями */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Указываем понятную периодичность в потоке данных у article*/
+article > * + * {
+  margin-top: 1em;
+}
+
+/* Наследуем шрифты для инпутов и кнопок */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* Удаляем все анимации и переходы для людей, которые предпочитай их не использовать */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* -------------*/
+
+.wrapper {
+    max-width: 550px;
+    margin: 0 auto;
+    color: rgb(0, 255, 13);
+    padding: 20px 0px;
+}
+.form {
+}
+.form__body {
+}
+.form__title {
+  font-size: 37px;
+  margin: 0 0 20px 0;
+}
+.form__item {
+    margin: 0 0 20px 0;
+}
+.form__label {
+    font-size: 18px;
+    display: block;
+    margin:  0 0 10px 0;
+}
+.form__input {
+    height: 50px;
+    padding: 0 20px;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 18px;
+}
+textarea.form__input{
+    min-height: 150px;
+    resize: vertical;
+
+}
+.options {
+    padding: 10px 0 0 0;
+}
+.option__item {
+    margin: 0 0 10px 0;
+}
+.options__input {
+    display: none;
+}
+.options__label {
+    font-size: 16px;
+    display: inline-flex;
+    line-height: 140%;
+    align-items: center;
+    position: relative;
+}
+.options__label::before {
+    content: "";
+    flex: 0 0 24px;
+    align-self: flex-start;
+    height: 24px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin: 0 10px 0 0;
+    
+}
+.options__label::after {
+    content: "";
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    width: 16px;
+}
+.select {
+}
+.file {
+}
+.file__item {
+}
+.file__input {
+}
+.file__button {
+}
+.file__preview {
+}
+.checkbox {
+}
+.checkbox__input {
+}
+.checkbox__label {
+}
+.form_button {
+}

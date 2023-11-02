@@ -1,7 +1,19 @@
-https://www.youtube.com/watch?v=zTywcq3gPx4 -  PHP расширение для VS Code
+﻿https://www.youtube.com/watch?v=zTywcq3gPx4 -  PHP расширение для VS Code
 
 https://www.youtube.com/watch?v=PqTrhfjLQBI - Отправка формы на почту. Верстка валидация и отправка формы без перезагрузки. AJAX. PHPMailer.
 
 https://www.youtube.com/watch?v=B_CBEh-Uyuk - ФОРМА ОБРАТНОЙ СВЯЗИ ДЛЯ САЙТА - ЛЕГКО! Используем html и php
 
 https://www.youtube.com/watch?v=KtMLM_sM4LA - Форма обратной связи на PHP, Ajax, JavaScript и Bootstrap 4 / Изучение Ajax за 30 минут!
+
+https://www.youtube.com/watch?v=ulQA5tjJark - Git & GitHub Crash Course 2023
+
+
+https://medium.com/@stasonmars/%D1%81%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8%CC%86-%D1%81%D0%B1%D1%80%D0%BE%D1%81-css-f5816963c82b - Современный сброс стилей CSS
+
+https://developer.mozilla.org/ru/docs/Web/CSS/flex - flex: 0 0 24px;
+
+https://sebweo.com/ru/uroki-po-css-chto-takoe-edinitsy-prosmotra-vw-vh-vmin-i-vmax/ - единицы просмотра vw, vh, vmin и vmax
+
+https://www.youtube.com/watch?v=P6UgYq3J3Qs  -CSS Positioning: Position absolute and relative explained
+https://www.youtube.com/watch?v=phWxA89Dy94 -  Learn Flexbox CSS in 8 minutes

@@ -1,0 +1,93 @@
+Hello, 
+
+
+
+we are searching for a reliable and long term development partner, for our e-commerce website development and future upgrades, and other projects (landing pages, opt-in pages, leads collection, etc.). 
+
+
+
+This project is for start to end headless mobile responsive web shop development (multi-language, multi-market), as designed in Figma and according to attached website diagrams. 
+
+
+
+Few key features to keep in mind:
+
+Headless so the customer end site is always available to receive orders
+It should be coded using latest technology and programming languages
+Best result on PageSpeed Insights
+Safe against potencial attacks, phishing's etc.
+Desktop and mobile responsive (we have both designed in Figma, just few pages in admin should be mobile responsive)
+Every block and section must be easy editable over backend editor
+Blocks and sections can be moved up and down on page, turned on and off based on needs
+Homepage, product page, blog and other sections
+Safe payment processing, subscriptions, etc.
+Fast and safe database for order, customer and leads keeping
+Easy to use multi-language, multi-currency and editing, localization
+We plan to do upgrades and adjustments eventually to make it even better
+
+
+Here is some more comments regarding project:
+
+Each front end facing website (pages, products, settings, etc.) should be editable in backend and by language, currency, country, domain. Each such page have language switcher on the top of page.
+
+
+
+Headless e-commerce framework design:
+
+Customer facing websites are independent, they can be each on own domain, hosting, and display products and settings from admin panel.
+
+
+
+New language/country/domain site is easy to replicate, possibility to add from admin panel where necessary settings must be filled out and site will be added and we can start translating products, pages, setup currencies etc.
+
+
+
+All localised and independent sites can be managed from same admin panel.
+
+
+
+All orders are coming into same admin panel, we use filter to manage them. Each have localized ID and country attached.
+
+
+
+Third party integrations (API):
+
+Stripe - payment integration for multiple payment methods
+
+PayPal - paypal integration
+
+Klaviyo - for email marketing, segmentation - customer data and order history must flow into Klaviyo from our store. Each country connected to own Klaviyo account.
+
+CartFox - sms notifications for abandoment and custom sms sending, segmentation, etc. Customers that allow sms notification should be sync to cartfox.
+
+InnoShip - used to integrate for order processing to other couriers, to make labels, sync delivery statuses, display map for locker and PUDO deliveries, etc.
+
+Zapier - create zapier ability to can quickly use for custom events and connect with other tools.
+
+RoasMonster/triplewhale alternative for other cost connection and reporting
+
+Outbound calling (3CX) / Channels / CrazyCall integration to call out leads
+
+
+
+Have easy and quick availability to connect more plugins via their API.
+
+
+
+I would prefer someone who is usually working 7 days a week, would be able to dedicate full time to get this project out of ground quickly and then work in the future for upgrades and more functionalities. 
+
+
+
+Attached:
+
+- Figma web shop design / https://www.figma.com/file/pEd3JfQ3GtGssx465BGfBL/SWISS%2BPOWER?type=design&node-id=0%3A1&mode=design&t=RAJEEybiOtmn3ny7-1
+
+- Figma admin panel design (editing of web shop) / https://www.figma.com/file/jusKCBSCGvBWdogmXYTYuF/Dashboard?type=design&node-id=0%3A1&mode=design&t=WMdzhEVKU2UJMD5N-1
+
+- Diagram from web shop
+
+- Diagram for admin panel
+
+
+
+Will be working based on your given bid and deadline, which should be fixed upon bidding on the project since 95% of information given is clear and to the point. References from similar projects please!
