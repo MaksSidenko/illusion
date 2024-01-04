@@ -1,2 +1,8 @@
-1) https://laracasts.com/ - laravel info
+1) https://www.youtube.com/watch?v=-ZSEyI7Lro8&list=PLd2_Os8Cj3t-CoUEdoAiYc1sj21FH79no&index=2 - добавление php интерпритатора в переменную среды виндовс 
+2) https://www.youtube.com/watch?v=5OdVJbNCSso - MySQL Full Course for free 🐬 (2023)
+3) https://www.youtube.com/watch?v=-QsyWzabRVc&list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU&index=2 - Yelo Code youtube channel laravel course
+4) https://www.youtube.com/watch?v=MYyJ4PuL4pY - Laravel From Scratch 2022 | 4+ Hour Course
+5) https://www.youtube.com/watch?v=ZNlDSBuLT9o - Код-ревью Laravel проекта от подписчика | Социальная сеть (на канале много полезных видео)
+6) https://www.youtube.com/watch?v=Fecxmo3IDSQ&list=PLqDySLfPKRn5d7WbN9R0yJA9IRgx-XBlU&index=3 - Top VS Code Plugins for Laravel Development
+7) https://www.youtube.com/watch?v=DUg2SWWK18I - MVC Explained in 4 Minutes
 
