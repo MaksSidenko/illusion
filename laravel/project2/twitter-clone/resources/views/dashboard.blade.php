@@ -38,10 +38,10 @@
     </div>
     <div class="col-6">
         <div class="alert alert-success alert-dismissible fade show" role="alert">
-            Idea created Successfully
+            Post added successfully.
             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
         </div>
-        <h4> Share yours ideas </h4>
+        <h4> Add your posts </h4>
         <div class="row">
             <div class="mb-3">
                 <textarea class="form-control" id="idea" rows="3"></textarea>
